@@ -43,8 +43,9 @@ To set up the project locally, follow these steps:
 
 ## Usage
 To run the application, use the following command:
-```bash
-streamlit run app.py
+   ```bash
+   streamlit run app.py
+```
 
 ##Data Visualization
 The application provides various visualizations, including:
