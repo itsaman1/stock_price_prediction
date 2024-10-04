@@ -11,7 +11,7 @@ This project implements a stock price prediction application using Long Short-Te
 - [Data Visualization](#data-visualization)
 - [Model Training](#model-training)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 - Fetch historical stock price data using Yahoo Finance.
