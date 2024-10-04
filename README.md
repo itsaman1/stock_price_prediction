@@ -1,4 +1,4 @@
-# Stock Price Prediction Using LSTM
+ # Stock Price Prediction Using LSTM
 
 ## Overview
 This project implements a stock price prediction application using Long Short-Term Memory (LSTM) neural networks. The goal is to predict future stock prices based on historical data, allowing users to make informed investment decisions.
@@ -47,14 +47,14 @@ To run the application, use the following command:
    streamlit run app.py
 ```
 
-##Data Visualization
+## Data Visualization
 The application provides various visualizations, including:
 
 1. Closing price vs. time chart.
 2. Closing price with 100-day and 200-day moving averages.
 3. Prediction vs. original price chart.
 
-##Model Training
+## Model Training
 The LSTM model is trained on 70% of the historical data and tested on the remaining 30%. The model architecture consists of multiple LSTM layers and dropout layers to prevent overfitting.
 
 The model is saved as keras_model.h5, which can be loaded for making predictions.
