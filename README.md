@@ -37,3 +37,8 @@ To set up the project locally, follow these steps:
    ```bash
    git clone https://github.com/yourusername/stock-price-prediction.git
    cd stock-price-prediction
+2. Install the required libraries
+```bash
+   pip install -r requirements.txt
+
+
